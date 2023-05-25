@@ -34,7 +34,7 @@ public class VentanaPrincipal extends JFrame
         this.add(miPanelResultados);
 
         
-        this.setTitle("Empresa Automotriz");
+        this.setTitle("Biblioteca Sr. Pérez");
         this.setSize(400,600);
         this.setLocationRelativeTo(null);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
